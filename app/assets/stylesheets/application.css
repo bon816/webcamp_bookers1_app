@@ -94,6 +94,10 @@ td a:link {
   color: #000;
 }
 
+td a:link:hover {
+  color: #fff
+}
+
 h2 {
   display: block;
   font-size: 1.5em;
